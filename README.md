@@ -20,6 +20,10 @@
     Siguiendo con los JUEGOS para aprender a programar, también tenía a mano estos.<br>
     <img src="css-games.png" width="500px"> <br>
 
+  • <a href="https://aprendejavascript.org/">Aprende Javascript</a>  <br>
+  Si lo tuyo es lo teórico o si buscas buenos resumenes además de videos, este sitio es muy completo<br>
+  <img src="js.png" width="500px"><br>
+
    • <a href="https://www.freecodecamp.org/">FreeCodeCamp</a><br>
    Es una plataforma educativa en línea que proporciona cursos gratuitos de programación y desarrollo web. 
    El objetivo principal de FreeCodeCamp es ayudar a las personas a aprender a programar y desarrollar habilidades en 
@@ -182,6 +186,10 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
   que estan muy estéticos para presentar<br>
   <img src="fazt.png" width="500px"><br>
 
+ • <a href="https://devchallenges.io/">Dev Challenges</a> <br>
+  Challenges para desarrollar. Hay challenges para dominar el diseño responsive, frontend o fullstack <br>
+  <img src="dev.png" width="500px"><br>
+
 </details>
 
 <!-- Section Documentaciones -->
@@ -203,6 +211,19 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
 Contenido de la sección 2.
 
 Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aquí.
+
+</details>
+
+<!-- Seciion Otras -->
+ <details>
+   
+<summary>  <h2> Otras herramientas </h2> </summary>
+
+• <a href="https://chat.openai.com/auth/login">Chat GPT</a>  <br>
+  ¿Y cómo no mencionarlo? Si se usa para bien y limitadamente. Aprender a hacer buenos prompts puede ayudarte no sólo en un momento de "traba"
+  sino que puedes aprender mucho, incluso pedirle que te haga pruebas, entrevistas, examenes, te de ejemplos de todo tipo. 
+  Es una gran herramienta de aprendizaje y práctica<br>
+  <img src="gpt.png" width="500px"><br>
 
 </details>
 
