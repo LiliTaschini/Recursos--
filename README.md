@@ -240,6 +240,10 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
   Un amante del CSS que explica con paciencia y ganas, algo que se nota que adora. <br> <br>
   <img src="assets/dorian.png" width="500px"> <br> <br>
 
+   • <a href="https://github.com/practical-tutorials/project-based-learning">Practical - Tutorials</a> <br>
+  Una extensa lista de GitHub donde podes buscar tu lenguaje, el proyecto que más te guste y replicarlo <br> <br>
+  <img src="assets/pra.png" width="500px"> <br> <br>
+
 </details>
 
 <!-- Section Documentaciones -->
@@ -270,6 +274,14 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
    
 <summary>  <h2> APIS </h2> </summary>
 <br>
+ • <a href="https://dev.twitch.tv/">Twitch Api</a> <br>
+  Api proporcionada por el canal Twitch con las transmisiones, horarios canales de los streamers <br> <br>
+  <img src="assets/tw.png" width="500px"> <br>
+
+  • <a href="https://rawg.io/apidocs">Rawg API</a> <br>
+  Una extensa y muy completa API de videojuegos, fácil de utilizar <br> <br>
+   <img src="assets/raw.png" width="500px"> <br>
+
   • <a href="https://github.com/public-apis/public-apis">Public Apis</a> <br>
   Una lista colectiva de API gratuitas para usar en software y desarrollo web <br> <br>
  
@@ -297,7 +309,7 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
   Es una gran herramienta de aprendizaje y práctica <br> <br>
   <img src="assets/gpt.png" width="500px"> <br> <br>
 
-   • <a href="https://github.com/practical-tutorials/project-based-learning"> Galería de Readme - Ispiración / Ideas </a>  • <a href="https://www.youtube.com/watch?v=1eEnboVooiY&t=791s">Tutorial README Profile</a>   • <a   href="https://www.youtube.com/watch?v=1eEnboVooiY&t=791s">Tutorial Portafolio con Readme Github</a>   <br>
+   • <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates"> Galería de Readme - Ispiración / Ideas </a>  • <a href="https://www.youtube.com/watch?v=1eEnboVooiY&t=791s">Tutorial README Profile</a>   • <a   href="https://www.youtube.com/watch?v=1eEnboVooiY&t=791s">Tutorial Portafolio con Readme Github</a>  • <a href="https://github.com/Ileriayo/markdown-badges"> MarkDowns </a>  <br>
   ¿Quieres personalizar y empezar a trabajar con tu GitHub? GitHub tiene una nueva funcionalidad  <br>
   donde podemos personalizar un Readme (como el que estas leyendo) para: 
   • Hacer un Perfil Profile sobre tu información personal, sobre tus trabajos y proyectos, 
@@ -318,6 +330,10 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
 
   • <a href="https://10web.io/">AI WebSite Builder</a>  <br>
   Construye websites con sus propias imagenes, hecho con IA <br> <br>
+
+  •    • <a href="https://layout.bradwoods.io/customize"> CSS Layaout Generator </a>  
+  Te permite seleccionar un template y poder crear un CSS Layaout simple o avanzado, brindando el código HTML y CSS<br> <br>
+   <img src="assets/lay.png" width="500px"> <br> <br>
 
 
 
