@@ -37,7 +37,7 @@
   • <a href="https://app.edutin.com/category">Edutin</a><br>
   Cursos de programación, base de datos y prácticamente de lo que quieras. Esta web recopila distintos videos, 
   recursos y herramientas para poder enseñarte, la variedad que tienen en enorme<br>
-  <img src="assets/escuela-vue.png" width="500px"> <br>
+  <img src="assets/edutin.png" width="500px"> <br>
 
   • <a href="https://www.theodinproject.com/">The Odin Project</a><br>
   Es una comunidad de código abierto dedicada a proporcionar fuentes de información para aprender cero hasta ser un desarrollador fullstack <br>
@@ -90,8 +90,44 @@
   para redes sociales, páginas web, etc (folletos, logotipos, banners)   <br>
   <img src="assets/adobe.png" width="500px">   <br>
 
-  </details>
+  • <a href="https://10015.io/">10015 Tools</a>  <br>
+  Se trata de una Caja de Herramientas que cuenta con herramientas de texto, de imagenes, de CSS, de
+  código, de color, de redes sociales, entre otras<br>
+  <img src="assets/tool.png" width="500px">   <br>
 
+  • <a href="https://dribbble.com/shots">Dribble</a>  <br>
+  Una página que puede servir de MUSA. De fuente de inspiración ya que aloja los porfolios y diseños de distintas agencias 
+  y creadres de contenido del mundo.<br>
+  <img src="assets/dribble.png" width="500px"><br>
+
+  </details>
+  
+   <details>
+   
+  <summary>🎨 Colores</summary>
+  
+   • <a href="https://www.color-hex.com/">Color - Hex</a>  <br>
+  brinda información sobre los colores , incluidos los modelos de color (RGB, HSL, HSV y CMYK), colores triádicos, 
+  colores monocromáticos y colores análogos calculados en la página de color.<br>
+  <img src="assets/color.png" width="500px"><br>
+
+   • <a href="https://colorhunt.co/">Color Hunt</a> • <a href="http://colorsafe.co/">Color Safe</a> • <a href="https://flatuicolors.com/">Flat UI Colors</a> 
+  Gran colección de paleta de colores<br>
+  <img src="assets/hunt.png" width="500px"><br>
+
+  • <a href="https://copypalette.app/">Copy Palette</a> • <a href="https://coolors.co/">Coloors</a> 
+  Generador de paleta de colores y gradientes<br>
+  <img src="assets/coloor.png" width="500px"><br>
+
+   • <a href="https://cssgradient.io/">Css Gradient</a>   • <a href="https://webgradients.com/">Web Gradients</a> 
+  Generador de gradientes de colores<br>
+  <img src="assets/gradient.png" width="500px"><br>
+
+   • <a href="https://picular.co/">Picular</a><br>
+  Le decís una palabra (la que sea) y trae colores relacionados o asociados<br>
+  <img src="assets/pic.png" width="500px"><br>
+
+  </details>
 
    <details>
    
@@ -139,7 +175,8 @@
   Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aquí.
 
   </details>
-   <details>
+  
+  <details>
    
   <summary>Otros</summary>
 
@@ -190,6 +227,14 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
   Challenges para desarrollar. Hay challenges para dominar el diseño responsive, frontend o fullstack <br>
   <img src="assets/dev.png" width="500px"><br>
 
+   • <a href="https://www.frontendmentor.io/challenges">FrontEnd Mentor</a> <br>
+  Challenges para desarrollar de Frontend. Hay challenges categorizados en Junior, Intermediate o Advanced<br>
+  <img src="assets/mentor.png" width="500px"><br>
+
+  • <a href="https://www.youtube.com/c/DorianDesings/videos">Dorian Desings</a> <br>
+  Un amante del CSS que explica con paciencia y ganas, algo que se nota que adora.<br>
+  <img src="assets/dorian.png" width="500px"><br>
+
 </details>
 
 <!-- Section Documentaciones -->
@@ -214,6 +259,26 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
 
 </details>
 
+<!-- Seciion APIS -->
+ <details>
+   
+<summary>  <h2> APIS </h2> </summary>
+
+  • <a href="https://github.com/public-apis/public-apis">Public Apis</a> <br>
+  Una lista colectiva de API gratuitas para usar en software y desarrollo web<br>
+ 
+
+</details>
+
+<!-- Seciion Librerías -->
+ <details>
+   
+<summary>  <h2> Librerías </h2> </summary>
+
+
+
+</details>
+
 <!-- Seciion Otras -->
  <details>
    
@@ -224,6 +289,15 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
   sino que puedes aprender mucho, incluso pedirle que te haga pruebas, entrevistas, examenes, te de ejemplos de todo tipo. 
   Es una gran herramienta de aprendizaje y práctica<br>
   <img src="assets/gpt.png" width="500px"><br>
+
+• <a href="https://www.deepl.com/translator">DeepL</a>  <br>
+  Un traductor de idiomas que admite texto<br>
+  <img src="assets/trad.png" width="500px"><br>
+
+  • <a href="http://static.socraticarts.com/AjaxTester/">Ajax Tester</a>  <br>
+  Una página simple para experimentar con las llamadas AJAX. Para ello hay que especificar 
+  el método HTTP, la URL y los parámetros, y hacer clic en Solicitud Ajax 👌<br>
+  <img src="assets/trad.png" width="500px"><br>
 
 </details>
 
