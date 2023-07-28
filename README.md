@@ -211,9 +211,9 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
    
 <summary> <h2> Aprender Patrones de Diseño </h2> </summary>
 
-Contenido de la sección 2.
-
-Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aquí.
+• <a href="https://refactoring.guru/es/design-patterns">Refactoring Guru</a>  <br>
+  Aprende sobre refactorización, los patrones de diseño, los principios SOLID y otros temas de la programación inteligente <br> <br>
+  <img src="assets/trad.png" width="500px"> <br> <br>
 
 </details>
 
@@ -297,6 +297,16 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
   Es una gran herramienta de aprendizaje y práctica <br> <br>
   <img src="assets/gpt.png" width="500px"> <br> <br>
 
+   • <a href="https://github.com/practical-tutorials/project-based-learning"> Galería de Readme - Ispiración / Ideas </a>  • <a href="https://www.youtube.com/watch?v=1eEnboVooiY&t=791s">Tutorial README Profile</a>   • <a   href="https://www.youtube.com/watch?v=1eEnboVooiY&t=791s">Tutorial Portafolio con Readme Github</a>   <br>
+  ¿Quieres personalizar y empezar a trabajar con tu GitHub? GitHub tiene una nueva funcionalidad  <br>
+  donde podemos personalizar un Readme (como el que estas leyendo) para: 
+  • Hacer un Perfil Profile sobre tu información personal, sobre tus trabajos y proyectos, 
+  • Armar una hoja de presentación para tus proyectos y explicarlos, mencionar los recursos que has utilizado, <br>
+  facilitándo a la comunidad el acceso a esos recursos. Mencionar colaboradores, si estos estan completos o en qué fase
+  de Desarrollo se encuentran.
+  • También podes realizar una lista de recursos y compartir lo que te ha ayudado, para el crecimiento de los demás ♥ <br> <br>
+   <img src="assets/recu.png" width="500px"> <br> <br>
+
 • <a href="https://www.deepl.com/translator">DeepL</a>  <br>
   Un traductor de idiomas que admite texto <br> <br>
   <img src="assets/trad.png" width="500px"> <br> <br>
@@ -305,6 +315,11 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
   Una página simple para experimentar con las llamadas AJAX. Para ello hay que especificar  <br>
   el método HTTP, la URL y los parámetros, y hacer clic en Solicitud Ajax 👌 <br> <br>
   <img src="assets/trad.png" width="500px"> <br> <br>
+
+  • <a href="https://10web.io/">AI WebSite Builder</a>  <br>
+  Construye websites con sus propias imagenes, hecho con IA <br> <br>
+
+
 
 </details>
 
