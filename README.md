@@ -331,7 +331,7 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
   • <a href="https://10web.io/">AI WebSite Builder</a>  <br>
   Construye websites con sus propias imagenes, hecho con IA <br> <br>
 
-  •    • <a href="https://layout.bradwoods.io/customize"> CSS Layaout Generator </a>  
+  • <a href="https://layout.bradwoods.io/customize"> CSS Layaout Generator </a>  
   Te permite seleccionar un template y poder crear un CSS Layaout simple o avanzado, brindando el código HTML y CSS<br> <br>
    <img src="assets/lay.png" width="500px"> <br> <br>
 
