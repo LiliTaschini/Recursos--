@@ -157,10 +157,14 @@
    
   <summary>Iconos</summary>
 
-  Contenido de la sección 2.
+ • <a href="https://lordicon.com/">Lordicon</a> <br>
+  es una poderosa biblioteca de íconos animados cuidadosamente elaborados <br>  <br>
+  <img src="assets/lord.png" width="500px"> <br>  <br>
 
-  Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aquí.
-
+   • <a href="https://iconduck.com/">Icon Duck</a> <br>
+  306.832 iconos e ilustraciones gratuitos de código abierto <br>  <br>
+ 
+  
   </details>
    <details>
    
@@ -185,9 +189,9 @@
    
   <summary>Otros</summary>
 
-  Contenido de la sección 2.
-
-  Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aquí.
+  • <a href="https://getwaves.io/">Get Waves</a> <br>
+ Genera olas de distintos colores y formas. <br>  <br>
+  <img src="assets/wave.png" width="500px"> <br>  <br>
 
   </details>
 
