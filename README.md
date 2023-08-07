@@ -150,36 +150,36 @@
   Impresionantes imágenes libres de regalías y existencias libres de regalías <br>  <br>
   <img src="assets/pix.png" width="500px"> <br>  <br>
 
-   • <a href="https://unsplash.com/">Unsplash</a>  • <a href="https://www.freepik.es/">Free pik</a>  • <a href="https://www.freeimages.com/es">Free Images</a> <br>  <br>
-   Fuente de imágenes <br>  <br>
-  <img src="assets/un.png" width="500px"> <br>  <br>
+   • <a href="https://unsplash.com/">Unsplash</a>  • <a href="https://www.freepik.es/">Free pik</a>  • <a href="https://www.freeimages.com/es">Free Images</a> <br> 
+   Fuente de imágenes <br>   <br> 
+  <img src="assets/un.png" width="500px"> <br> 
 
-   • <a href="https://imgupscaler.com/">IMG Upscaler</a>  <br>  <br>
+   • <a href="https://imgupscaler.com/">IMG Upscaler</a>  <br> 
   Herramientas de mejora y escalado de imágenes <br>  <br>
 
-  • <a href="https://haikei.app/">Haikei</a>  <br>  <br>
-  Haikei es una aplicación web para generar contenido visual sorprendente, <br>  <br>
+  • <a href="https://haikei.app/">Haikei</a>  <br> 
+  Haikei es una aplicación web para generar contenido visual sorprendente,  
   listo para usar con las herramientas de diseño y flujo de trabajo. <br>  <br>
    <img src="assets/hai.png" width="500px"> <br>  <br>
 
-  • <a href="https://spline.design/">Spline </a>  <br>  <br>
+  • <a href="https://spline.design/">Spline </a>  <br> 
   Para diseñar en 3D <br>  <br>
    <img src="assets/spl.png" width="500px"> <br>  <br>
 
-   • <a href="https://www.remove.bg/">Remove BG</a>  <br>  <br>
+   • <a href="https://www.remove.bg/">Remove BG</a>  <br> 
   Remueve la imagen de fondo <br>  <br>
 
-  • <a href="https://tinypng.com/">Tiny Png</a>  <br>  <br>
+  • <a href="https://tinypng.com/">Tiny Png</a>  <br> 
  Compression WebP, PNG and JPEG<br>  <br>
 
-   • <a href="https://neumorphism.io/#e0e0e0">Neumorphism.io</a>  <br>  <br>
+   • <a href="https://neumorphism.io/#e0e0e0">Neumorphism.io</a>  <br> 
 Generar código CSS de interfaz de usuario suave<br>  <br>
 
-   • <a href="https://undraw.co/illustrations">Undraw</a> • <a href="https://blush.design/">Blush</a> <br>  <br>
+   • <a href="https://undraw.co/illustrations">Undraw</a> • <a href="https://blush.design/">Blush</a> <br> 
 Crear y personalizar fácilmente ilustraciones con colecciones creadas por artistas de todo el mundo <br>  <br>
 
-  • <a href="https://motionarray.com/">Motion Array</a> <br>  <br>
-Permite descargar activos, desde plantillas de video  <br>  <br>
+  • <a href="https://motionarray.com/">Motion Array</a> <br> 
+Permite descargar activos, desde plantillas de video 
 y material de archivo, hasta fotos, música libre de regalías y efectos de sonido. <br>  <br>
   
   </details>
