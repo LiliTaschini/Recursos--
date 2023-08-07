@@ -98,6 +98,10 @@
   de CSS, de código, de color, de redes sociales, entre otras <br> <br>
   <img src="assets/tool.png" width="500px">   <br>  <br>
 
+  • <a href="https://www.toools.design/">Tools Design</a>  <br>
+  Un archivo creciente de más de 1000 recursos de diseño, actualizado semanalmente para la comunidad. <br>  <br>
+  <img src="assets/tools.png" width="500px">   <br>  <br>
+
   • <a href="https://dribbble.com/shots">Dribble (Darle enter al link, cuando tire el 404)</a>  <br>
   Una página que puede servir de MUSA. De fuente de inspiración ya que aloja los porfolios <br>
   y diseños de distintas agencias  y creadres de contenido del mundo.<br> <br>
@@ -160,6 +164,32 @@
  • <a href="https://lordicon.com/">Lordicon</a> <br>
   es una poderosa biblioteca de íconos animados cuidadosamente elaborados <br>  <br>
   <img src="assets/lord.png" width="500px"> <br>  <br>
+
+   • <a href="https://boxicons.com/?query=">Boxicons</a> <br>
+  Iconos simples de código abierto cuidadosamente diseñados para diseñadores y desarrolladores <br>  <br>
+   <img src="assets/boxicons.png" width="500px"> <br>  <br>
+
+   • <a href="https://fonts.google.com/icons?query=popp">Google Icons</a> <br>
+ Google tiene su propia librerìa open source de iconos y fuentes <br>  <br>
+   <img src="assets/goo.png" width="500px"> <br>  <br>
+
+   • <a href="https://icons.getbootstrap.com/?q=f">Bootstrap Icons</a> <br>
+ Bootstrap es un framework de CSS que contiene iconos <br>  <br>
+   <img src="assets/Screenshot_1.png" width="500px"> <br>  <br>
+
+   • <a href="https://fontawesome.com/">Font Awesome</a> <br>
+ Font Awesome es la biblioteca de íconos y el conjunto de herramientas de Internet, <br>  <br>
+utilizado por millones de diseñadores, desarrolladores y creadores de contenido. <br>  <br>
+   <img src="assets/font.png" width="500px"> <br>  <br>
+
+  • <a href="https://www.flaticon.es/">Flaticon </a> <br>
+ Descarga iconos y stickers gratis para tus proyectos. Recursos hechos por y para diseñadores.  <br>  <br>
+ Formatos PNG, SVG, EPS, PSD y CSS. <br>  <br>
+   <img src="assets/flati.png" width="500px"> <br>  <br>
+
+  • <a href="https://thenounproject.com/">The Noun Project</a> <br>
+  Iconos y fotos para todos <br>  <br>
+   <img src="assets/the.png" width="500px"> <br>  <br>
 
    • <a href="https://iconduck.com/">Icon Duck</a> <br>
   306.832 iconos e ilustraciones gratuitos de código abierto <br>  <br>
