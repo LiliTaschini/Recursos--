@@ -142,10 +142,46 @@
    
   <summary>🎞 Imagenes</summary>
 
-  Contenido de la sección 2.
+   • <a href="https://www.pexels.com/">Pexels</a> <br>
+  Las mejores fotos de archivo, imágenes libres de regalías y videos compartidos por los creadores. <br>  <br>
+  <img src="assets/pex.png" width="500px"> <br>  <br>
 
-  Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aquí.
+   • <a href="https://pixabay.com/">Pixabay</a> <br>
+  Impresionantes imágenes libres de regalías y existencias libres de regalías <br>  <br>
+  <img src="assets/pix.png" width="500px"> <br>  <br>
 
+   • <a href="https://unsplash.com/">Unsplash</a>  • <a href="https://www.freepik.es/">Free pik</a>  • <a href="https://www.freeimages.com/es">Free Images</a> <br>  <br>
+   Fuente de imágenes <br>  <br>
+  <img src="assets/un.png" width="500px"> <br>  <br>
+
+   • <a href="https://imgupscaler.com/">IMG Upscaler</a>  <br>  <br>
+  Herramientas de mejora y escalado de imágenes <br>  <br>
+
+  • <a href="https://haikei.app/">Haikei</a>  <br>  <br>
+  Haikei es una aplicación web para generar contenido visual sorprendente, <br>  <br>
+  listo para usar con las herramientas de diseño y flujo de trabajo. <br>  <br>
+   <img src="assets/hai.png" width="500px"> <br>  <br>
+
+  • <a href="https://spline.design/">Spline </a>  <br>  <br>
+  Para diseñar en 3D <br>  <br>
+   <img src="assets/spl.png" width="500px"> <br>  <br>
+
+   • <a href="https://www.remove.bg/">Remove BG</a>  <br>  <br>
+  Remueve la imagen de fondo <br>  <br>
+
+  • <a href="https://tinypng.com/">Tiny Png</a>  <br>  <br>
+ Compression WebP, PNG and JPEG<br>  <br>
+
+   • <a href="https://neumorphism.io/#e0e0e0">Neumorphism.io</a>  <br>  <br>
+Generar código CSS de interfaz de usuario suave<br>  <br>
+
+   • <a href="https://undraw.co/illustrations">Undraw</a> • <a href="https://blush.design/">Blush</a> <br>  <br>
+Crear y personalizar fácilmente ilustraciones con colecciones creadas por artistas de todo el mundo <br>  <br>
+
+  • <a href="https://motionarray.com/">Motion Array</a> <br>  <br>
+Permite descargar activos, desde plantillas de video  <br>  <br>
+y material de archivo, hasta fotos, música libre de regalías y efectos de sonido. <br>  <br>
+  
   </details>
   
    <details>
@@ -318,6 +354,11 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
 
   • <a href="https://github.com/public-apis/public-apis">Public Apis</a> <br>
   Una lista colectiva de API gratuitas para usar en software y desarrollo web <br> <br>
+
+  • <a href="https://newsapi.org/">News Api</a> <br>
+  Permite buscar noticias en todo el mundo con código <br> <br>
+ Localizar artículos y titulares de noticias de última hora de fuentes de noticias <br> <br>
+ y blogs en toda la web con nuestra API JSON <br> <br>
  
 
 </details>
