@@ -74,6 +74,11 @@
   finaliza con un proyecto MERN que integra todo lo aprendido. <br> <br>
   <img src="assets/curso-juan.png" width="500px"><br>
 
+   • <a href="https://www.udemy.com/course/react-cero-experto/"> React de cero a experto -  ( Hooks y MERN ) </a> <br>
+  Es un curso muy completo en la plataforma de UDEMY que va desde JS avanzado  <br>
+  o moderno a React completo - <br>
+  <img src="assets/react.png" width="500px"><br>
+
  <!-- Sumar + -->
 </details>
 
