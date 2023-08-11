@@ -188,9 +188,9 @@ y material de archivo, hasta fotos, música libre de regalías y efectos de soni
    
   <summary>Texto</summary>
 
-  Contenido de la sección 2.
-
-  Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aquí.
+   • <a href="https://fonts.google.com/">Google Fonts</a> <br>
+  La biblioteca de Google de fuentes <br>  <br>
+  <img src="assets/goof.png" width="500px"> <br>  <br>
 
   </details>
    <details>
@@ -229,6 +229,9 @@ utilizado por millones de diseñadores, desarrolladores y creadores de contenido
 
    • <a href="https://iconduck.com/">Icon Duck</a> <br>
   306.832 iconos e ilustraciones gratuitos de código abierto <br>  <br>
+  
+  • <a href="https://github.com/steeze-ui/icons">Icons</a>  <br>
+  Iconos para todos los frameworks de JS <br> <br>
  
   
   </details>
@@ -368,7 +371,43 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
    
 <summary>  <h2> Librerías </h2> </summary>
 
+ • <a href="https://www.transition.style/">Transition Style</a>  <br>
+ Transiciones para CSS <br> <br>
+   <img src="assets/transition.png" width="500px"> <br>
 
+   • <a href="https://animate.style/">Animate CSS</a>  <br>
+  Transiciones y animaciones para CSS <br> <br>
+  <img src="assets/animate.png" width="500px"> <br>
+
+   • <a href="https://animista.net/">Animista </a>  <br>
+  Librería de transiciones y animaciones para CSS <br> <br>
+  <img src="assets/animista.png" width="500px"> <br>
+
+  • <a href="https://elrumordelaluz.github.io/csshake/"> CSShake </a> • <a href="https://anijs.github.io/"> AniJS </a>  • <a href="https://ianlunn.github.io/Hover/"> Hover CSS </a> • <a href="https://www.minimamente.com/project/magic/"> Magic Animations CSS3 </a> <br> 
+  Otras librerías de transiciones y animaciones para CSS <br> <br>
+  <img src="assets/magic.png" width="500px"> <br>
+
+   • <a href="https://uiball.com/">UI Ball</a>  <br>
+  Loaders para tus apps <br> <br>
+   <img src="assets/ui.png" width="500px"> <br>
+
+   • <a href="https://www.electronjs.org/es/">Electron Js</a>  <br>
+  Crea aplicaciones de escritorio multiplataforma con JavaScript, HTML y CSS <br> <br>
+   <img src="assets/electron.png" width="500px"> <br>
+
+   • <a href="https://layout.bradwoods.io/customize"> CSS Layaout Generator </a>  
+  Te permite seleccionar un template y poder crear un CSS Layaout simple o avanzado, brindando el código HTML y CSS<br> <br>
+   <img src="assets/lay.png" width="500px"> <br> <br>
+
+  • <a href="https://tobiasahlin.com/moving-letters/"> Moving Letters </a>  
+  Libería de animaciones para letras o texto <br> <br>
+   <img src="assets/mov.png" width="500px"> <br> <br>
+
+  • <a href="https://shopify.github.io/draggable/examples/simple-list.html">Draggable</a>  <br>
+  Te ayuda a crear elementos drag and drop <br> <br>
+
+  • <a href="https://tailblocks.cc/">TailBlocks</a>  <br>
+  Bloques de Tailwind listos para copiar y pegar <br> <br>
 
 </details>
 
@@ -406,10 +445,19 @@ Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aq
   • <a href="https://10web.io/">AI WebSite Builder</a>  <br>
   Construye websites con sus propias imagenes, hecho con IA <br> <br>
 
-  • <a href="https://layout.bradwoods.io/customize"> CSS Layaout Generator </a>  
-  Te permite seleccionar un template y poder crear un CSS Layaout simple o avanzado, brindando el código HTML y CSS<br> <br>
-   <img src="assets/lay.png" width="500px"> <br> <br>
+   • <a href="https://babeljs.io/"> Babel </a>  
+  Babel es un compilador gratis y de código abierto, que es principalmente utilizado para convertir ECMAScript 2015+  <br>
+  código a una versión atrás compatible de Javascript aquello puede ser ejecutado por motores de Javascript más viejo. <br> <br>
+   <img src="assets/babel.png" width="500px"> <br> <br>
 
+  • <a href="https://caniuse.com/">Can I User</a>  <br>
+  Te dice que propiedad no es compatible en un navegador determinado<br> <br>
+
+  • <a href="https://create-react-app.dev/">Create React App</a>  <br>
+  Configurar una aplicación web moderna con React ejecutando un comando. <br> <br>
+
+   • <a href="https://validator.w3.org/#validate_by_input">The W3C Markup Validation </a>  <br>
+  Para crear una buena estructura de código siguiendo buenas prácticas de la W3C <br> <br>
 
 
 </details>
