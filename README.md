@@ -244,10 +244,18 @@ utilizado por millones de diseñadores, desarrolladores y creadores de contenido
    
   <summary>Video</summary>
 
-  Contenido de la sección 2.
+  • <a href="https://www.videvo.net/es/">Videvo</a> <br>
+ Vídeos de stock, motion graphics, plantillas, plantillas para after effects, música sin derechos de autor & efectos de sonido <br>  <br>
+  <img src="assets/videvo.png" width="500px"> <br>  <br>
 
-  Puedes agregar cualquier texto, imágenes, enlaces o cualquier otro contenido aquí.
+   • <a href="https://coverr.co/">Cover</a> <br>
+ Colección de vídeos de stock gratis<br>  <br>
+  <img src="assets/cover.png" width="500px"> <br>  <br>
 
+  
+ • <a href="https://pixabay.com/es/videos/">Pixabay</a> <br>
+  • <a href="https://motionarray.com/">Motion Array</a> <br>
+ 
   </details>
    <details>
    
@@ -266,6 +274,10 @@ utilizado por millones de diseñadores, desarrolladores y creadores de contenido
   • <a href="https://getwaves.io/">Get Waves</a> <br>
  Genera olas de distintos colores y formas. <br>  <br>
   <img src="assets/wave.png" width="500px"> <br>  <br>
+
+   • <a href="https://bxslider.com/">bxSlider</a> <br>
+ Genera sliders personalizados. <br>  <br>
+  
 
   </details>
 
