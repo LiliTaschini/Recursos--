@@ -2,7 +2,7 @@
 
 ## <h1 align="center">⚡Pokédex - Oswaldo Pereira </h1>
   
-<div align="center"> <code> Pokedex is a web application whit responsive design that allows you to view all the Pokémon, </code> <br> </div>
+<div align="center"> <code> Pokedex is a web application whith responsive design that allows you to view all the Pokémon, </code> <br> </div>
 <div align="center"> <code> learn about their characteristics, and add your favorites to a personalized list.  </code> </div>
 
 ## Tech Stack 🚀 
@@ -18,7 +18,7 @@
 
 
 ## URL 🌼
-To interact with the web platform, please access: <a href="https://lilian-antonella-taschini.netlify.app/" target="_blank">⚡Pokédex </a>
+To interact with the web platform, please access: <a href="" target="_blank">⚡Pokédex </a>
 
 
 ## Preview 💟
